@@ -1,7 +1,7 @@
 
 
 def doublelast(j):
-   j.append(j[len(j)- 1])
+   j.append(jlen(j)- 1)
    return j 
 
 
